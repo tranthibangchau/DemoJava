@@ -1,7 +1,9 @@
 
 public class hinhChunhat {
 	protected int chieuDai, chieuRong;
-	 
+	public hinhChunhat(){
+		
+	}
     public hinhChunhat(int chieuDai, int chieuRong) {
         super();
         this.chieuDai = chieuDai;
