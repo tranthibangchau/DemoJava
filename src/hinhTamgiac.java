@@ -1,5 +1,5 @@
 
-public class hinhTamgiac {
+public class Hinhtamgiac {
 int canhday;
 int chieucao;
 }

@@ -1,4 +1,4 @@
 
-public class hinhVuong {
+public class Hinhvuong {
      
 }
